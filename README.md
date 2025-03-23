@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dalvino
 - 👀 I’m interested in Data Analytics and AI 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, NLP, etc.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 💞️ I’m looking to collaborate on analysis projects
+
 
 
 <!---
