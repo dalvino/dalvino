@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning Machine Learning, Deep Learning, NLP, etc.
 - 💞️ I’m looking to collaborate on analysis projects
 
+-- NDSC - National Student Data Corps Project work
+-- Academia - Project work from academia
+-- Datacamp - Projects pulled from Datacamp
+
+
 
 
 <!---
