@@ -9,7 +9,7 @@ library(fitdistrplus)
 ## Import data
 #setwd("C:\\Users\\dcolbert\\OneDrive - Western Governors University\\MSDADS\\D599 - Data Prep and Exploration\\task 2")
 getwd()
-df <- read.csv("C:\\Users\\dalvi\\OneDrive - Western Governors University\\MSDADS\\D599 - Data Prep and Exploration\\task 2\\HealthInsuranceSet.csv")
+
 
 ## Transform to data frame
 df <- setDT(df)

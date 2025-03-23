@@ -1,6 +1,3 @@
-# Dalvin Colbert
-# D598 - Analytics Programming
-# QKN1 - Task 2 - Code.R
 
 #########################################################################
 # Import appropriate libraries
