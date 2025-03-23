@@ -2,12 +2,16 @@
 - 👀 I’m interested in Data Analytics and AI 
 - 🌱 I’m currently learning Machine Learning, Deep Learning, NLP, etc.
 - 💞️ I’m looking to collaborate on analysis projects
+- Repo organization is in progress
+
 
 -- NDSC - National Student Data Corps Project work
+
 -- Academia - Project work from academia
+
 -- Datacamp - Projects pulled from Datacamp
 
-
+--
 
 
 <!---
